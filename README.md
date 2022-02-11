@@ -18,8 +18,7 @@
   - Currently learning new technologies. 🥢
   
   <br>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=nazmibecerik&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs)
-
+  
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=nazmibecerik&show_icons=true&theme=radical)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmibecerik&count_private=true&layout=compact" />
