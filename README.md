@@ -1,11 +1,10 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/019/093/555/large/marianna-burylko-starrysky.jpg?1561999318">
-
+<img src="https://miro.medium.com/max/1400/0*1mzotR23unNhunBc.png">
 
 ### Hey, It's Nazmi BECERIK! 
->Hello! I want to tell you a little bit about myself. I am Nazmi. I am a software developer.I am developing a project as a junior developer. You can look at my repositories and review my codes.  Your advices are important  for me. You can help me to improve in this field. I am open to job offers.
+>Hello! I want to tell you a little bit about myself. I am Nazmi. I am a software developer.I am developing a project as a junior developer. You can look at my repositories and review my codes.  Your advices are important  for me. You can help me to improve in this field.
 
 
-☀️ Learning Java, .NET Core , React , Javascript  ☀️
+☀️ Coding C# ,Java, .NET Core , React , Javascript,Angular,Asp.Net  ☀️
 
 <br>
 
