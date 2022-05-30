@@ -18,5 +18,3 @@
   <br>
   
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=nazmibecerik&show_icons=true&theme=radical)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmibecerik&count_private=true&layout=compact" />
