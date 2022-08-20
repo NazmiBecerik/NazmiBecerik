@@ -3,7 +3,7 @@
 >Hello! I want to tell you a little bit about myself. I am Nazmi. I am a software developer.I am developing a project as a junior developer. You can look at my repositories and review my codes.  Your advices are important  for me. You can help me to improve in this field.
 
 
- Coding C# ,Java,.NET Core , React , Javascript ,Angular ,Asp.Net
+ Coding .Net & Java
 
 <br>
 
