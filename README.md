@@ -15,5 +15,3 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="flutter" width="50" height="50"/> </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="dart" width="50" height="50"/> </a>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nazmibecerik&show_icons=true&locale=en" alt="nazmibecerik" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmibecerik&show_icons=true&locale=en&layout=compact" alt="nazmibecerik" /></p>
